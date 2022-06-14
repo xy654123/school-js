@@ -15,3 +15,14 @@
 <img src="https://user-images.githubusercontent.com/96267331/173486951-51a25b63-e1f7-47d9-885b-ce96991c2cdc.PNG"></img><br>
 코드부분<br>
 <img src="https://user-images.githubusercontent.com/96267331/173486955-0069f8c7-97e5-4bb9-b5ca-95dff98c998b.PNG"></img>
+
+# 가위바위보 게임
+
+<b>게임방법<b><br>
+플레이어가 가위,바위,보 중 하나를 입력하여 랜덤으로 정해진 컴퓨터와 같으면 정답 틀리면 오답으로 화면에 출력한다.<br>
+정답화면<br>
+<img src="https://user-images.githubusercontent.com/96267331/173517959-750f9ee4-2e40-4a48-bec0-7f7d19d5ae3d.PNG"></img><br>
+오답화면<br>
+<img src="https://user-images.githubusercontent.com/96267331/173517961-a1c1469e-e886-427b-9be8-bc7b7e27a6a0.PNG"></img><br>
+코드화면<br>
+<img src="https://user-images.githubusercontent.com/96267331/173517957-b5b9e0a3-cf58-4c99-8ffe-8de89b316b8c.PNG"></img>
